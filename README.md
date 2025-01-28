@@ -2,6 +2,8 @@
 
 **Far Away** is a simple and intuitive packing list app that helps users organize their travel essentials. Built with **React.js**, it allows travelers to create, check off, sort, and clear their packing lists efficiently.
 
+![Far Away App Screenshot](public/screenshot.png)
+
 ## Features
 
 - **Add Items** – Specify the quantity and name of items needed.
