@@ -24,7 +24,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/bocyaa/far-away-packing-list.git
-   cd far-away-packing-list
+   cd packing-list
    ```
 2. Install dependencies:
    ```bash
